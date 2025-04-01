@@ -1,5 +1,6 @@
 # Testje github voor ~~CLE3~~
 
+Dit is een test, even kijken wat er gebeurt
 Dit is een test _Repo_ voor **CLE 3**
 
 clone deze repo en oefen met pull/push/commit, etc.
